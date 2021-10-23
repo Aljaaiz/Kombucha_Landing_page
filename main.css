@@ -8,7 +8,7 @@ html,
 }
 :root {
   --roboto: "Roboto", sans-serif;
-  --conforta: "Comfortaa", cursive;
+  --conforta: "Comfortaa", "Roboto", sans-serif;
   --text-color: #5d5c73;
   --red-color: #f24130;
   --white: #f2f2f2;
